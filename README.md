@@ -1,0 +1,2 @@
+# ozkancc
+www.ozkan.cc
