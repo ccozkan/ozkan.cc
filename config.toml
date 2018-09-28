@@ -19,9 +19,9 @@ theme = "aerial"
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "github.com/ozkc"
+  link = "https://github.com/ozkc"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "ozkancdev@gmail.com"
+  link = "mailto:ozkancdev@gmail.com"
