@@ -1,4 +1,27 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Aerial"
+baseurl = "//ozkan.cc/"
 publishDir = "docs"
+themesDir = "themes"
+theme = "aerial"
+
+[params]
+  name = "CC Ozkan"
+  about = ""
+  copyright = ""
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "42"
+  favicon = "favicon.ico"
+
+
+
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "github.com/ozkc"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "ozkancdev@gmail.com"
