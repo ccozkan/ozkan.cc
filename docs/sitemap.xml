@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.ozkan.cc/categories/</loc>
+    <loc>http://ozkan.cc/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ozkan.cc/tags/</loc>
+    <loc>http://ozkan.cc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.ozkan.cc/</loc>
+    <loc>http://ozkan.cc/tags/</loc>
     <priority>0</priority>
   </url>
   
