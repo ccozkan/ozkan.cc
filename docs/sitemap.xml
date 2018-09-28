@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>//ozkan.cc/tags/development/</loc>
+    <loc>//ozkan.cc/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//ozkan.cc/categories/development/</loc>
+    <loc>//ozkan.cc/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,13 +61,13 @@
   </url>
   
   <url>
-    <loc>//ozkan.cc/tags/golang/</loc>
+    <loc>//ozkan.cc/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//ozkan.cc/categories/golang/</loc>
+    <loc>//ozkan.cc/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
