@@ -1,17 +1,16 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "CC Ozkan"
 baseurl = "//ozkan.cc/"
 publishDir = "docs"
 themesDir = "themes"
 theme = "aerial"
 
 [params]
-  name = "CC Ozkan"
+  name = "C Cagri Ozkan"
   about = ""
   copyright = ""
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = "42"
-  favicon = "favicon.ico"
 
 
 
