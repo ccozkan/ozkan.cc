@@ -1,26 +1,45 @@
-languageCode = "en-us"
+baseurl = ""
 title = "CC Ozkan"
-baseurl = "//ozkan.cc/"
 publishDir = "docs"
-themesDir = "themes"
-theme = "aerial"
+theme = "hugo-coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
 
 [params]
-  name = "C Cagri Ozkan"
-  about = ""
-  copyright = ""
-  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = "42"
+    author = "C Çağrı Özkan"
+    description = ""
+    keywords = ""
+    info = ""
+    avatarurl = "dagcrop.jpg"
+    footercontent = "personal website yo"
 
+    dateformat = "January 2, 2006"
 
+    hideCredits = true
+    hideCopyright = true
 
+    rtl = false
+
+    # Custom CSS
+    custom_css = []
 
 [[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/ozkc"
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/ozkc/"
 
 [[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:ozkancdev@gmail.com"
+    name = "Email"
+    icon = "fa fa-at"
+    weight = 2
+    url = "mailto:ozkancdev@gmail.com"
