@@ -1,4 +1,7 @@
-baseurl = ""
+
+baseurl = "https://ozkc.github.io/ozkancc/"
+relativeurls = false
+#uglyurls = true
 title = "CC Ozkan"
 publishDir = "docs"
 theme = "hugo-coder"
@@ -43,3 +46,15 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-at"
     weight = 2
     url = "mailto:ozkancdev@gmail.com"
+
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about/"
+[[menu.main]]
+    name = "Projects"
