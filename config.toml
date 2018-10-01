@@ -24,8 +24,7 @@ disqusShortname = "yourdiscussshortname"
     info = ""
     avatarurl = "dagcrop.jpg"
     footercontent = "personal website yo"
-
-    dateformat = "January 2, 2006"
+    dateformat = "2018"
 
     hideCredits = true
     hideCopyright = true
@@ -49,12 +48,6 @@ disqusShortname = "yourdiscussshortname"
 
 
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "posts/"
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "about/"
-[[menu.main]]
     name = "Projects"
+    weight = 1
+    url = "projects"
