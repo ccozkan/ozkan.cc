@@ -1,6 +1,7 @@
 
-baseurl = "https://ozkc.github.io/ozkancc/"
-#relativeurls = false
+baseurl = "/"
+#baseurl = "https://ozkc.github.io/ozkancc/"
+relativeurls = true
 #uglyurls = true
 title = "CC Ozkan"
 publishDir = "docs"

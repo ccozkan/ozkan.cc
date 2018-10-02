@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CC Ozkan</title>
-    <link>https://ozkc.github.io/ozkancc/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ozkc.github.io/ozkancc/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://ozkc.github.io/ozkancc/tags/development/</link>
+      <link>/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/development/</guid>
+      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://ozkc.github.io/ozkancc/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://ozkc.github.io/ozkancc/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://ozkc.github.io/ozkancc/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://ozkc.github.io/ozkancc/tags/templates/</link>
+      <link>/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/templates/</guid>
+      <guid>/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://ozkc.github.io/ozkancc/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ozkc.github.io/ozkancc/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     
