@@ -6,18 +6,29 @@
     <description>Recent content on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Oct 2018 01:32:19 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 04:13:32 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Projects</title>
+      <title>| About me |</title>
+      <link>/aboutme/</link>
+      <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>Hey whadup yo!</description>
+    </item>
+    
+    <item>
+      <title>| Projects |</title>
       <link>/projects/</link>
       <pubDate>Tue, 02 Oct 2018 01:32:19 +0300</pubDate>
       
       <guid>/projects/</guid>
-      <description>Stuff I made</description>
+      <description>Here are the some stuff I&amp;rsquo;ve made.
+-&amp;gt; software  Unblocker for Wikipedia: Wikipedia is blocked in Turkey for since April 2017. This Android App is forked from Wikipedia App and it accesses Wikipedia content. Application is avaible for download on Google Play Store and source code can be found on GitHub
+ Instauto: Scheduling multiple instagram photo posts for multiple accounts. Operates using its own Telegram Bot. More information is avaible at instauto.</description>
     </item>
     
     <item>

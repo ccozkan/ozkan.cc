@@ -22,7 +22,7 @@ disqusShortname = "yourdiscussshortname"
     author = "C Çağrı Özkan"
     description = ""
     keywords = ""
-    info = ""
+    info = "developer, mechanical engineer"
     avatarurl = "dagcrop.jpg"
     footercontent = "personal website yo"
     dateformat = "2018"
@@ -33,7 +33,6 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     # Custom CSS
-    custom_css = []
 
 [[params.social]]
     name = "Github"
@@ -48,7 +47,19 @@ disqusShortname = "yourdiscussshortname"
     url = "mailto:ozkancdev@gmail.com"
 
 
+[[params.social]]
+    name = "twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/vivalayogurt"
+
+
 [[menu.main]]
-    name = "Projects"
+    name = "| Projects |"
     weight = 1
     url = "projects"
+
+[[menu.main]]
+    name = "| About me |"
+    weight = 1
+    url = "aboutme"
