@@ -12,12 +12,6 @@ Here are the some stuff I've made.
 
  - **Instauto**: Scheduling multiple instagram photo posts for multiple accounts. Operates using its own Telegram Bot. More information is avaible at [instauto.xyz](https://instauto.xyz)
 
-### -> mechanical
-
-### -> websites
-
-- [alpcandesign.com](https://alpcandesign.com) 
-- [tolmuhendislik.com](https://tolmuhendislik.com)
 
 
 
