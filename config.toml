@@ -46,9 +46,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "mailto:mail@ozkan.cc"
 
-
-
-
 [[menu.main]]
     name = "| Projects |"
     weight = 1
