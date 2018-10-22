@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     description = ""
     keywords = ""
     info = "developer, mechanical engineer"
-    avatarurl = "dagcrop.jpg"
+    avatarurl = "t.jpg"
     footercontent = "personal website yo"
     dateformat = "2018"
 
@@ -44,14 +44,9 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fa fa-at"
     weight = 2
-    url = "mailto:ozkancdev@gmail.com"
+    url = "mailto:mail@ozkan.cc"
 
 
-[[params.social]]
-    name = "twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/vivalayogurt"
 
 
 [[menu.main]]
