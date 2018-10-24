@@ -10,8 +10,8 @@ Here are the some stuff I've made.
 
  - **Unblocker for Wikipedia**: Wikipedia is blocked in Turkey for since April 2017. This Android App is forked from Wikipedia App and it accesses Wikipedia content. Application is avaible for download on [Google Play Store](https://play.google.com/store/apps/details?id=org.engelkaldir.unblockerfor) and source code can be found on [GitHub](https://github.com/vikiengelkaldir/vek)
 
- - **Instauto**: Scheduling multiple instagram photo posts for multiple accounts. Operates using its own Telegram Bot. More information is avaible at [instauto.xyz](https://instauto.xyz)
+ - **Instauto**: Bot for scheduling multiple instagram photo posts for multiple accounts.
 
-
+- **open source**: Check my [GitHub](https://github.com/ozkc), for my open source work.
 
 
