@@ -11,7 +11,7 @@ body {
   display: flex;
   color: #212121;
   background-color: #FAFAFA;
-  font-family: Hack, Georgia, serif;
+  font-family: Hack, monospace;
   font-size: 1.6em;
   font-weight: 300;
   line-height: 1.8em; }
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Hack, Helvetica, sans-serif;
+  font-family: Hack, monospace;
   font-weight: 700;
   color: #000;
   margin: 6.4rem 0 3.2rem 0; }
@@ -224,7 +224,7 @@ img {
     .list ul li a {
       font-size: 1.8rem;
       color: #212121;
-      font-family: Hack, Helvetica, sans-serif;
+      font-family: Hack, monospace;
       font-weight: 700; }
       .list ul li a:hover, .list ul li a:focus {
         color: #1565c0; }
@@ -289,7 +289,7 @@ img {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.6rem;
-    font-family: Hack, Helvetica, sans-serif;
+    font-family: Hack, monospace;
     font-weight: 700;
     line-height: 6.0rem;
     color: #212121; }
