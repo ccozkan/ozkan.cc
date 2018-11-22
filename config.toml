@@ -1,8 +1,6 @@
 
 baseurl = "/"
-#baseurl = "https://ozkc.github.io/ozkancc/"
 relativeurls = true
-#uglyurls = true
 title = "CC Ozkan"
 publishDir = "docs"
 theme = "hugo-coder"
@@ -53,5 +51,5 @@ disqusShortname = "yourdiscussshortname"
 
 [[menu.main]]
     name = "| About me |"
-    weight = 1
+    weight = 2
     url = "aboutme"

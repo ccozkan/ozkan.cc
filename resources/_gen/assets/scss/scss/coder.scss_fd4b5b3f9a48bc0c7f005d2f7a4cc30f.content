@@ -9,8 +9,8 @@ html {
 
 body {
   display: flex;
-  color: #212121;
-  background-color: #FAFAFA;
+  color: #222831;
+  background-color: #eeeeee;
   font-family: Hack, monospace;
   font-size: 1.6em;
   font-weight: 300;
@@ -22,7 +22,7 @@ body {
 
 a {
   font-weight: 300;
-  color: #1565c0;
+  color: #00adb5;
   text-decoration: none; }
   a:focus, a:hover {
     text-decoration: underline; }
@@ -38,7 +38,7 @@ h5,
 h6 {
   font-family: Hack, monospace;
   font-weight: 700;
-  color: #000;
+  color: #393e46;
   margin: 6.4rem 0 3.2rem 0; }
 
 h1 {
@@ -110,7 +110,7 @@ code {
   font-size: 1.6rem;
   font-weight: 400;
   background-color: #E0E0E0;
-  color: #212121;
+  color: #222831;
   padding: 0.2rem 0.4rem 0.2rem 0.4rem; }
 
 blockquote {
@@ -127,7 +127,7 @@ table {
   border-collapse: collapse; }
 
 table td, table th {
-  border: 2px solid #000; }
+  border: 2px solid #393e46; }
 
 table tr:first-child th {
   border-top: 0; }
@@ -189,7 +189,7 @@ img {
     .content article header h2 {
       font-size: 1.8rem;
       line-height: 2.2rem;
-      color: #212121;
+      color: #222831;
       margin-top: 1.8rem; }
       @media only screen and (max-device-width: 768px) {
         .content article header h2 {
@@ -223,11 +223,11 @@ img {
           text-align: left; } }
     .list ul li a {
       font-size: 1.8rem;
-      color: #212121;
+      color: #222831;
       font-family: Hack, monospace;
       font-weight: 700; }
       .list ul li a:hover, .list ul li a:focus {
-        color: #1565c0; }
+        color: #00adb5; }
 
 .centered {
   display: flex;
@@ -254,13 +254,13 @@ img {
         display: inline-block;
         position: relative; }
         .centered .about ul li a {
-          color: #212121;
+          color: #222831;
           text-transform: uppercase;
           margin-left: 1.0rem;
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #00adb5; }
           @media only screen and (max-device-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -292,9 +292,9 @@ img {
     font-family: Hack, monospace;
     font-weight: 700;
     line-height: 6.0rem;
-    color: #212121; }
+    color: #222831; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #00adb5; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -314,7 +314,7 @@ img {
         padding: 0;
         max-height: 0;
         width: 100%;
-        background-color: #FAFAFA;
+        background-color: #eeeeee;
         border-top: solid 2px #E0E0E0;
         border-bottom: solid 2px #E0E0E0;
         transition: opacity 0.25s, max-height 0.15s linear; } }
@@ -333,7 +333,7 @@ img {
         margin-right: 1.0rem; }
     @media only screen and (max-device-width: 768px) {
       .navigation .navigation-list .menu-separator {
-        border-top: 2px solid #212121;
+        border-top: 2px solid #222831;
         margin: 0 8.0rem; }
         .navigation .navigation-list .menu-separator span {
           display: none; } }
@@ -354,10 +354,10 @@ img {
         font-size: 2.4rem;
         font-weight: 400;
         line-height: 6.0rem;
-        color: #212121;
+        color: #222831;
         cursor: pointer; }
         .navigation .menu-button:hover, .navigation .menu-button:focus {
-          color: #1565c0; } }
+          color: #00adb5; } }
 
 .pagination {
   margin-top: 6.0rem;
@@ -380,6 +380,6 @@ img {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #00adb5; }
 
 /*# sourceMappingURL=coder.css.map */
