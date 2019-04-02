@@ -1,0 +1,2 @@
+
+ - **unblocker for wikipedia**: Wikipedia is blocked in Turkey for since April 2017. This Android App is forked from Wikipedia App and it accesses Wikipedia content. Application is avaible for download on [Google Play Store](https://play.google.com/store/apps/details?id=org.engelkaldir.unblockerfor) and source code can be found on [GitHub](https://github.com/vikiengelkaldir/vek)

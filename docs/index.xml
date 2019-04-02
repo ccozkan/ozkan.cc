@@ -26,10 +26,11 @@
       <pubDate>Tue, 02 Oct 2018 01:32:19 +0300</pubDate>
       
       <guid>/projects/</guid>
-      <description>Here are the some stuff I&amp;rsquo;ve made.
--&amp;gt; software  unblocker for wikipedia: Wikipedia is blocked in Turkey for since April 2017. This Android App is forked from Wikipedia App and it accesses Wikipedia content. Application is avaible for download on Google Play Store and source code can be found on GitHub
- instauto: Bot for scheduling multiple instagram photo posts for multiple accounts.
- rss2insta: Application for posting on an Instagram from an RSS feed.</description>
+      <description> Here are the some stuff I&amp;rsquo;ve made.
+-&amp;gt; software  instauto: Bot for scheduling multiple instagram photo posts for multiple accounts.
+ rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
+ open source: Check my GitHub, for my open source work.
+  -&amp;gt; web  whodis: web app for getting any Instagram user&amp;rsquo;s profile picture in HD. Check it on here  </description>
     </item>
     
     <item>
@@ -91,6 +92,16 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blogpodcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogpodcast/</guid>
+      <description> About Blog &amp;amp; Podcast So I rarely talk about some stuff on podcast and more rarely try to write on blog, however they are in turkish, so if you speak the language feel free to to look at. Actually you can look at eve if you don&amp;rsquo;t speek the language too. Why not.
+Podcast Yazılar </description>
     </item>
     
     <item>
