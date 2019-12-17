@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CC Ozkan</title>
@@ -6,32 +6,51 @@
     <description>Recent content on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Oct 2018 04:13:32 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2019 11:39:06 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>| About me |</title>
-      <link>/aboutme/</link>
-      <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
+      <title>my rediscovery of radio streams</title>
+      <link>/blog/radio-streams/</link>
+      <pubDate>Tue, 17 Dec 2019 11:39:06 +0300</pubDate>
       
-      <guid>/aboutme/</guid>
-      <description>I have a Masters Degree in Mechanical Engineering, and I was doing my PhD in that area. But then I realized I&amp;rsquo;ve got some solid passion in software and web development. So I quitted my job, dropped my PhD and now I&amp;rsquo;m using my mad coding skillz for my job:D
-Other than that, I like hiking in nature, playing some classic rock on guitar and watching kung-fu movies.</description>
+      <guid>/blog/radio-streams/</guid>
+      <description>Years ago, I downloaded all my music and then like everybody else I switched to streaming. Listening tunes from youtube and spotify has its advantages. But I decided to take a step away from it.
+There are two reasons behind that escape plan
+ listening same stuff over and over again all the &amp;ldquo;explored&amp;rdquo; music is been recommended by the algorithm  Listening music on radio feels way more organic, and has a bit of of surfing taste.</description>
     </item>
     
     <item>
-      <title>| Projects |</title>
-      <link>/projects/</link>
-      <pubDate>Tue, 02 Oct 2018 01:32:19 +0300</pubDate>
+      <title>Render LaTeX using KaTeX</title>
+      <link>/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
-      <description>Here are the some stuff I&amp;rsquo;ve made.
- instauto: Bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
- rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
- whodis: web app for getting any Instagram user&amp;rsquo;s profile picture in HD. Check it on here
- pdfbirlestir.com : web site for merging multiple pdf documents into one file. Check it here.</description>
+      <guid>/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
+It&#39;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty}2^{-n}=1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+    </item>
+    
+    <item>
+      <title>Hugo coder wiki</title>
+      <link>/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
     </item>
     
     <item>
@@ -40,7 +59,7 @@ Other than that, I like hiking in nature, playing some classic rock on guitar an
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -56,8 +75,8 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -90,9 +109,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
@@ -101,7 +118,7 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blogpodcast/</guid>
-      <description> About Blog &amp;amp; Podcast So I rarely talk about some stuff on podcast and more rarely try to write on blog, however they are in turkish, so if you speak the language feel free to to look at. Actually you can look at eve if you don&amp;rsquo;t speek the language too. Why not.
+      <description>About Blog &amp;amp; Podcast So I rarely talk about some stuff on podcast and more rarely try to write on blog, however they are in turkish, so if you speak the language feel free to to look at. Actually you can look at eve if you don&#39;t speek the language too. Why not.
 Podcast Yazılar </description>
     </item>
     
@@ -116,6 +133,55 @@ It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
 Setup Some fun facts about Hugo:
  Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Me siga em @joaoninguem.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Here are the some stuff I&#39;ve made.
+  instauto: Bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
+  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
+  whodis: web app for getting any Instagram user&#39;s profile picture in HD. Check it on here
+  pdfbirlestir.com : web site for merging multiple pdf documents into one file.</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
+    </item>
+    
+    <item>
+      <title>Sobre Hugo</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>

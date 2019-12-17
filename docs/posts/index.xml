@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CC Ozkan</title>
@@ -6,10 +6,41 @@
     <description>Recent content in Posts on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Render LaTeX using KaTeX</title>
+      <link>/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
+It&#39;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty}2^{-n}=1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+    </item>
+    
+    <item>
+      <title>Hugo coder wiki</title>
+      <link>/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
+    </item>
     
     <item>
       <title>Theme Demo</title>
@@ -17,7 +48,7 @@
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
 This is italic text
@@ -33,8 +64,8 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&#39;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&#39;t cover using CSS to style your theme.
+We&#39;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
@@ -67,9 +98,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
   </channel>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on CC Ozkan</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on CC Ozkan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Dec 2019 11:39:06 +0300</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>my rediscovery of radio streams</title>
+      <link>/blog/radio-streams/</link>
+      <pubDate>Tue, 17 Dec 2019 11:39:06 +0300</pubDate>
+      
+      <guid>/blog/radio-streams/</guid>
+      <description>Years ago, I downloaded all my music and then like everybody else I switched to streaming. Listening tunes from youtube and spotify has its advantages. But I decided to take a step away from it.
+There are two reasons behind that escape plan
+ listening same stuff over and over again all the &amp;ldquo;explored&amp;rdquo; music is been recommended by the algorithm  Listening music on radio feels way more organic, and has a bit of of surfing taste.</description>
+    </item>
+    
+  </channel>
+</rss>

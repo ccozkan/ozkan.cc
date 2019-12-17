@@ -1,8 +1,7 @@
----
-title: "| Projects |"
-date: 2018-10-02T01:32:19+03:00
-draft: false
----
++++
+title = "Projects"
+slug = "projects"
++++
 
 Here are the some stuff I've made.
 
@@ -16,7 +15,3 @@ Here are the some stuff I've made.
 - **pdfbirlestir.com** : web site for merging multiple pdf documents into one file. Check it [here](https://pdfbirlestir.com). Avaible only in Turkish.
 
 - **open source**: Check my [GitHub](https://github.com/ozkc), for my open source work.
-
-
-
-

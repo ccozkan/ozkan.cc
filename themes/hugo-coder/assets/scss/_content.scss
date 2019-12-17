@@ -1,24 +1,60 @@
 .content {
   flex: 1;
+  display: flex;
   margin-top: 1.6rem;
   margin-bottom: 3.2rem;
   article {
     header {
       margin-top: 6.4rem;
       margin-bottom: 3.2rem;
-      h1, h2 {
+      h1 {
+        font-size: 4.2rem;
+        line-height: 4.6rem;
         margin: 0;
-      }
-      h2 {
-        font-size: 1.8rem;
-        line-height: 2.2rem;
-        color: $fg-color;
-        margin-top: 1.8rem;
-        @media only screen and (max-device-width : 768px) {
-          font-size: 1.6rem;
+        @media only screen and (max-width : 768px) {
+          font-size: 4.0rem;
+          line-height: 4.4rem;
         }
       }
     }
+    footer {
+      margin-top: 4.0rem;
+      .see-also {
+        margin: 3.2rem 0;
+        h3 {
+          margin: 3.2rem 0;
+        }
+      }
+    }
+  }
+  .post {
+    .post-title {
+      margin-bottom: .75em;
+    }
+    .post-meta {
+      i {
+        text-align: center;
+        width: 1.6rem;
+        margin-left: 0;
+        margin-right: 0.5rem;
+      }
+      .date {
+        .posted-on {
+          margin-left: 0;
+          margin-right: 1.5rem;
+        }
+      }
+    }
+  }
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+  figcaption p {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.6rem;
+    margin: 0;
   }
 }
 
@@ -26,7 +62,7 @@
   width: 20rem;
   height: auto;
   border-radius: 50%;
-  @media only screen and (max-device-width : 768px) {
+  @media only screen and (max-width : 768px) {
     width: 10rem;
   }
 }
@@ -38,20 +74,20 @@
     padding: 0;
     li {
       font-size: 1.8rem;
-      @media only screen and (max-device-width : 768px) {
+      @media only screen and (max-width : 768px) {
         margin: 1.6rem 0 1.6rem 0;
       }
-      span {
+      .date {
         display: inline-block;
         width: 20.0rem;
         text-align: right;
         margin-right: 3.0rem;
-        @media only screen and (max-device-width : 768px) {
+        @media only screen and (max-width : 768px) {
           display: block;
           text-align: left;
         }
       }
-      a {
+      .title {
         font-size: 1.8rem;
         color: $fg-color;
         font-family: $heading-font-family;
@@ -67,7 +103,6 @@
 
 .centered {
   display: flex;
-  height: 100%;
   align-items: center;
   justify-content: center;
   .about {
@@ -80,7 +115,7 @@
       margin-top: 1.0rem;
       margin-bottom: 0.5rem;
       font-size: 2.4rem;
-      @media only screen and (max-device-width : 768px) {
+      @media only screen and (max-width : 768px) {
         font-size: 2.0rem;
       }
     }
@@ -101,7 +136,7 @@
           &:focus {
             color: $link-color;
           }
-          @media only screen and (max-device-width : 768px) {
+          @media only screen and (max-width : 768px) {
             font-size: 1.4rem;
           }
           i {
@@ -118,7 +153,7 @@
       margin-top: 2.0rem;
       margin-bottom: 0.5rem;
       font-size: 4.6rem;
-      @media only screen and (max-device-width : 768px) {
+      @media only screen and (max-width : 768px) {
         font-size: 3.2rem;
       }
     }
@@ -126,7 +161,7 @@
       margin-top: 2.0rem;
       margin-bottom: 3.2rem;
       font-size: 3.2rem;
-      @media only screen and (max-device-width : 768px) {
+      @media only screen and (max-width : 768px) {
         font-size: 2.8rem;
       }
     }
