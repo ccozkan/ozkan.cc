@@ -18,28 +18,7 @@
   </url>
   
   <url>
-    <loc>/blogpodcast/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
   </url>
   
   <url>
@@ -48,10 +27,6 @@
   
   <url>
     <loc>/series/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
   <url>

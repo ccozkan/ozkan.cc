@@ -90,6 +90,6 @@ disqusShortname = "yourdiscussshortname"
     url = "blog"
 
 [[menu.main]]
-    name = "rss"
+    name = "> rss"
     weight = 4
     url = "https://ozkan.cc/index.xml"
