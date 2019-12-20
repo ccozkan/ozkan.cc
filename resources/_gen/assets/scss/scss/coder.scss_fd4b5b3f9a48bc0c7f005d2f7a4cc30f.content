@@ -21,7 +21,7 @@ body {
 
 a {
   font-weight: 300;
-  color: #00adb5;
+  color: #36679f;
   text-decoration: none; }
   a:focus, a:hover {
     text-decoration: underline; }
@@ -250,7 +250,7 @@ img {
       font-family: Hack, monospace;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #00adb5; }
+        color: #36679f; }
 
 .centered {
   display: flex;
@@ -282,7 +282,7 @@ img {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #00adb5; }
+            color: #36679f; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -316,7 +316,7 @@ img {
     line-height: 6.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #00adb5; }
+    color: #36679f; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -379,7 +379,7 @@ img {
         color: #212121;
         cursor: pointer; }
         .navigation .menu-button:hover, .navigation .menu-button:focus {
-          color: #00adb5; } }
+          color: #36679f; } }
 
 .pagination {
   margin-top: 6.0rem;
@@ -406,6 +406,6 @@ img {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #00adb5; }
+    color: #36679f; }
 
 /*# sourceMappingURL=coder.css.map */

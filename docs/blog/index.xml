@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2019 11:39:06 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 12:04:28 +0300</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>beauty of rss</title>
+      <link>/blog/beautiful-rss/</link>
+      <pubDate>Fri, 20 Dec 2019 12:04:28 +0300</pubDate>
+      
+      <guid>/blog/beautiful-rss/</guid>
+      <description>RSS might not be the newest technology in town. But damn it is effecient.
+In the age of noice of push notifications, this not disturbing delivery system has became how i consume the internet. From independent blogs (the non-kneelers part of social internet!),to big major publisher sites, podcasts and a lot of other platforms(reddit subreddits, youtube channels, etc) have native rss support. Some additional tools provide rss for non-supporting ones.</description>
+    </item>
     
     <item>
       <title>my rediscovery of radio streams</title>
