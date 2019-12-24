@@ -30,7 +30,7 @@ readers:
 - [fresh rss](https://freshrss.org/) - open-source, self hosted
 
 
--> [more info on more readers](https://en.wikipedi0.org/wiki/Comparison_of_feed_aggregators)
+-> [comparision of readers at wikipedia](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators)
 
 tools:
 - [rssbox](https://rssbox.herokuapp.com/) - tool for getting rss feeds for non-providing sources

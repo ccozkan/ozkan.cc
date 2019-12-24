@@ -16,7 +16,3 @@ Listening music on radio feels way more organic, and has a bit of of surfing tas
 
 📻 Happy tuning! :)
 
-<!---
---- 
-__edit:__
-It has been 7-10 days that my primary tune source is online radio. I've realized using spotify turned me a some kind of control freak. Whenever I get the taste of good music, I think about adding it to my playlist, so I can own it and not lose it forever. Of course there are times I write down the song playing for listening later but it is quite quite less.  Being in control of playing music all the time is a bit tiring activity. Letting the song play and enjoying the track is not. I've also realized even though I  was listening variaty of music on spotify, the variety of the tunes that you can listen on online radios are wider. Well, it is all about the surfing taste in the end.
