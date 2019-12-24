@@ -1,7 +1,7 @@
 ---
 title: "more thoughts on radio"
 date: 2019-12-24T16:44:17+03:00
-draft: true
+draft: false
 ---
 
 So I wrote about changing my primary listening music source from spotify to online radio streaming [before](/blog/radio-streams-2/). It is now somewhere around day10-day15 of this experiment, and I'd like to share some more thoughts. In these days, I turned up a station whenever I want to have some rhytmic and melodic sounds in the air. Sometimes I opened spotify or youtube just for listening specific songs. I've never to let it play on its own.
