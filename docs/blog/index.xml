@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Feb 2020 05:51:21 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 16:50:20 +0300</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GTD and Emacs Org-Mode</title>
+      <link>/blog/gtd-org/</link>
+      <pubDate>Sat, 15 Feb 2020 16:50:20 +0300</pubDate>
+      
+      <guid>/blog/gtd-org/</guid>
+      <description>I wrote about importance of note taking systems before, in that blogpost I pointed out that my way-to-go note taking system is GTD by David Allen. I use Emacs Org-Mode as my tool in that approach.
+I have a Dropbox folder which is in sync with my cell phone (check beorg in iOs, orgzly in Android). I also wrote a Telegram bot for capturing and appending them to the inbox.org file.</description>
+    </item>
     
     <item>
       <title>importance of note taking system</title>

@@ -6,10 +6,20 @@
     <description>Recent content on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Feb 2020 05:51:21 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 16:50:20 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GTD and Emacs Org-Mode</title>
+      <link>/blog/gtd-org/</link>
+      <pubDate>Sat, 15 Feb 2020 16:50:20 +0300</pubDate>
+      
+      <guid>/blog/gtd-org/</guid>
+      <description>I wrote about importance of note taking systems before, in that blogpost I pointed out that my way-to-go note taking system is GTD by David Allen. I use Emacs Org-Mode as my tool in that approach.
+I have a Dropbox folder which is in sync with my cell phone (check beorg in iOs, orgzly in Android). I also wrote a Telegram bot for capturing and appending them to the inbox.org file.</description>
+    </item>
     
     <item>
       <title>importance of note taking system</title>
@@ -57,11 +67,12 @@ There are two reasons behind that escape plan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Here are the some stuff I&amp;rsquo;ve made.
-  instauto: Bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
-  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
-  whodis: web app for getting any Instagram user&amp;rsquo;s profile picture in HD. Check it on here.
-  pdfbirlestir.com : web site for merging multiple pdf documents into one file.</description>
+      <description>Here are the some stuff I&amp;rsquo;m currently working on:
+  paperboy.digital: digital minimalist web app for consuming content from big networks (twitter, instagram, reddit, youtube)
+  podcast listener: sylish web-app for listening your podcasts
+   Here are the some stuff I&amp;rsquo;ve made.
+  instauto: bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
+  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.</description>
     </item>
     
   </channel>
