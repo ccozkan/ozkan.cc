@@ -6,10 +6,20 @@
     <description>Recent content on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Dec 2019 16:44:17 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 05:51:21 +0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>importance of note taking system</title>
+      <link>/blog/note-taking-system/</link>
+      <pubDate>Wed, 12 Feb 2020 05:51:21 +0300</pubDate>
+      
+      <guid>/blog/note-taking-system/</guid>
+      <description>I believe it has been about couple of years since I met ith the concept of GTD note taking system. It is a system introduced by David Allen in 2001 by its book. I am not going to introduce and explain the system but it is quite straight forward. There is his book, also quite a lot of resources like podcasts, videos, presentations of him explaining the system.
+I haven&amp;rsquo;t used the system for 2-year streak.</description>
+    </item>
     
     <item>
       <title>more thoughts on radio</title>
@@ -17,7 +27,7 @@
       <pubDate>Tue, 24 Dec 2019 16:44:17 +0300</pubDate>
       
       <guid>/blog/radio-streams-2/</guid>
-      <description>So I wrote about changing my primary listening music source from spotify to online radio streaming before. It is now somewhere around day10-day15 of this experiment, and I&#39;d like to share some more thoughts. In these days, I turned up a station whenever I want to have some rhytmic and melodic sounds in the air. Sometimes I opened spotify or youtube just for listening specific songs. I&#39;ve never to let it play on its own.</description>
+      <description>So I wrote about changing my primary listening music source from spotify to online radio streaming before. It is now somewhere around day10-day15 of this experiment, and I&amp;rsquo;d like to share some more thoughts. In these days, I turned up a station whenever I want to have some rhytmic and melodic sounds in the air. Sometimes I opened spotify or youtube just for listening specific songs. I&amp;rsquo;ve never to let it play on its own.</description>
     </item>
     
     <item>
@@ -47,10 +57,10 @@ There are two reasons behind that escape plan
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Here are the some stuff I&#39;ve made.
+      <description>Here are the some stuff I&amp;rsquo;ve made.
   instauto: Bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
   rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
-  whodis: web app for getting any Instagram user&#39;s profile picture in HD. Check it on here.
+  whodis: web app for getting any Instagram user&amp;rsquo;s profile picture in HD. Check it on here.
   pdfbirlestir.com : web site for merging multiple pdf documents into one file.</description>
     </item>
     

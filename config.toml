@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
 
     dateformat = "January 2, 2006"
 
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
