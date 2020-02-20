@@ -80,12 +80,12 @@ disqusShortname = "yourdiscussshortname"
 
 
 [[menu.main]]
-    name = "| Projects |"
+    name = "| /projects |"
     weight = 1
     url = "projects"
 
 [[menu.main]]
-    name = "| Blog |"
+    name = "| /blog |"
     weight = 3
     url = "blog"
 
