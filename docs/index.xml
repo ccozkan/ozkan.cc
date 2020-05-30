@@ -68,11 +68,10 @@ There are two reasons behind that escape plan
       
       <guid>/projects/</guid>
       <description>Here are the some stuff I&amp;rsquo;m currently working on:
-  paperboy.digital: digital minimalist web app for consuming content from big networks (twitter, instagram, reddit, youtube)
-  podcast listener: sylish web-app for listening your podcasts
-   Here are the some stuff I&amp;rsquo;ve made.
+ podcast listener: web-app for listening podcasts   Here are the some stuff I&amp;rsquo;ve made.
   instauto: bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
-  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.</description>
+  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
+  pdfbirlestir.com : web site for merging multiple pdf documents into one file.</description>
     </item>
     
   </channel>
