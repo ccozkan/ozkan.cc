@@ -86,8 +86,13 @@ disqusShortname = "yourdiscussshortname"
 
 [[menu.main]]
     name = "| /blog |"
-    weight = 3
+    weight = 2
     url = "blog"
+
+[[menu.main]]
+    name = "| /about_me |"
+    weight = 3
+    url = "about_me"
 
 [[menu.main]]
     name = "> rss"

@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Feb 2020 16:50:20 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 21:21:54 +0300</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cafe Podcast</title>
+      <link>/blog/cafe-podcast/</link>
+      <pubDate>Wed, 01 Jul 2020 21:21:54 +0300</pubDate>
+      
+      <guid>/blog/cafe-podcast/</guid>
+      <description>So I&amp;rsquo;ve been working on my latest side project from time to time. It is an open-source web app for listening podcasts. Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🥳. Here are the promises I&amp;rsquo;ve made on its github page. I also believe it would be nice to have a free and open source podcast web app around.
+open source podcast web-app</description>
+    </item>
     
     <item>
       <title>GTD and Emacs Org-Mode</title>

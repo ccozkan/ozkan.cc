@@ -5,7 +5,7 @@ slug = "projects"
 
 Here are the some stuff I'm currently working on:
 
-- **podcast listener**: web-app for listening podcasts
+- **cafe podcast**: full featured open source web app for consuming podcasts. hopefully soon to be online at [cafepodcast.io](http://cafepodcast.io) - [source code](https://github.com/ozkc/cafe_podcast) 
 
 ---------------
 Here are the some stuff I've made.
