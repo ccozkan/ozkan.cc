@@ -17,8 +17,9 @@
       <pubDate>Wed, 01 Jul 2020 21:21:54 +0300</pubDate>
       
       <guid>/blog/cafe-podcast/</guid>
-      <description>So I&amp;rsquo;ve been working on my latest side project from time to time. It is an open-source web app for listening podcasts. Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🥳. Here are the promises I&amp;rsquo;ve made on its github page. I also believe it would be nice to have a free and open source podcast web app around.
-open source podcast web-app</description>
+      <description>So I&amp;rsquo;ve been working on my latest side project from time to time. It is an open-source web app for listening podcasts with features. I believe it would be nice to have a full featured, free and open source podcast web app around.
+Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🎉.
+Here are the promises I&amp;rsquo;ve made on its github page.</description>
     </item>
     
     <item>
@@ -72,16 +73,24 @@ There are two reasons behind that escape plan
     </item>
     
     <item>
+      <title>| About me |</title>
+      <link>/about_me/</link>
+      <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
+      
+      <guid>/about_me/</guid>
+      <description>I have a Masters Degree in Mechanical Engineering, and I was doing my PhD in that area. But then I realized I’ve got some solid passion in software and web development. So I quitted my job, dropped my PhD, moved to my hometown in order to radically change my professional career. Currently I work as a Ruby on Rails Developer. Aside from my working hours, I try to keep few side-projects of my own going on.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
       <description>Here are the some stuff I&amp;rsquo;m currently working on:
- podcast listener: web-app for listening podcasts   Here are the some stuff I&amp;rsquo;ve made.
+ cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source code   Here are the some stuff I&amp;rsquo;ve made.
   instauto: bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
-  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.
-  pdfbirlestir.com : web site for merging multiple pdf documents into one file.</description>
+  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.</description>
     </item>
     
   </channel>
