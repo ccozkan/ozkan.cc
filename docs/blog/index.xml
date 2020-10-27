@@ -6,11 +6,7 @@
     <description>Recent content in Blogs on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:21:54 +0300</lastBuildDate>
-    
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 01 Jul 2020 21:21:54 +0300</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cafe Podcast</title>
       <link>/blog/cafe-podcast/</link>
