@@ -33,7 +33,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-#    commit = "https://github.com/ozkc/ozkancc/"
+#    commit = "https://github.com/ccozkan/ozkancc/"
 
     rtl = false
 
@@ -63,7 +63,7 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github"
     weight = 1
     target="_blank"
-    url = "https://github.com/ozkc/"
+    url = "https://github.com/ccozkan"
 
 [[params.social]]
     name = "Telegram"
