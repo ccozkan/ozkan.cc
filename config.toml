@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "C Çağrı Özkan"
-    description = "asdasdasd"
+    description = "my personal website"
     keywords = "blog,developer,personal"
     info = ""
     avatarurl = "t.jpg"
@@ -33,7 +33,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-#    commit = "https://github.com/ccozkan/ozkancc/"
+    # commit = "https://github.com/ccozkan/ozkancc/"
 
     rtl = false
 
@@ -48,10 +48,10 @@ disqusShortname = "yourdiscussshortname"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-#    custom_css = []
+    # custom_css = []
     
     # Custom JS
- #   custom_js = []
+    # custom_js = []
 
 [taxonomies]
   category = "categories"
@@ -77,7 +77,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fa fa-envelope"
     weight = 3
     url = "mailto:mail@ozkan.cc"
-
 
 [[menu.main]]
     name = "| /projects |"
