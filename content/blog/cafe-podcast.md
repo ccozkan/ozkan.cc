@@ -8,7 +8,7 @@ So I've been working on my latest side project from time to time. It is an open-
 
 Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🎉.
 
-Here are the promises I've made on [its github page](https://github.com/ozkc/cafe_podcast).
+Here are the promises I've made on [its github page](https://github.com/ccozkan/cafe_podcast).
 
 
 open source podcast web-app

@@ -5,7 +5,7 @@ slug = "projects"
 
 Here are the some stuff I'm currently working on:
 
-- **cafe podcast**: full featured open source web app for consuming podcasts. hopefully soon to be online at [cafepodcast.io](http://cafepodcast.io) - [source code](https://github.com/ozkc/cafe_podcast) 
+- **cafe podcast**: full featured open source web app for consuming podcasts. hopefully soon to be online at [cafepodcast.io](http://cafepodcast.io) - [source code](https://github.com/ccozkan/cafe_podcast) 
 
 ---------------
 Here are the some stuff I've made.
@@ -16,6 +16,8 @@ Here are the some stuff I've made.
 
 - **pdfbirlestir.com** : web site for merging multiple pdf documents into one file. Check it [here](https://pdfbirlestir.com). Avaible only in Turkish.
 
+- **a logwork orange**: app for users log their works, admins to watch them all. Live at [heroku](https://a-logwork-orange.herokuapp.com)
+
 ------------
 
-- **open source**: Check my [GitHub](https://github.com/ozkc), for my open source work.
+- **open source**: Check my [GitHub](https://github.com/ccozkan), for my open source work.
