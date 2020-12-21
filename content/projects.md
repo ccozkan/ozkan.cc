@@ -16,7 +16,7 @@ Here are the some stuff I've made.
 
 - **pdfbirlestir.com** : web site for merging multiple pdf documents into one file. Check it [here](https://pdfbirlestir.com). Avaible only in Turkish.
 
-- **a logwork orange**: app for users log their works, admins to watch them all. Live at [heroku](https://a-logwork-orange.herokuapp.com)
+- **a logwork orange**: open source app for users log their works, and for admins to watch them all and come to some conclusions. Live at [heroku](https://a-logwork-orange.herokuapp.com) - [source code](https://github.com/ccozkan/a-logwork-orange)
 
 ------------
 
