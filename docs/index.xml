@@ -85,8 +85,8 @@ There are two reasons behind that escape plan
       <guid>/projects/</guid>
       <description>Here are the some stuff I&amp;rsquo;m currently working on:
  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source code   Here are the some stuff I&amp;rsquo;ve made.
-  instauto: bot for scheduling multiple instagram photo posts for multiple accounts. See it here on action!
-  rss2insta: Application for automatic posting on an Instagram account from an RSS feed.</description>
+  youtube_to_rss: ruby gem for converting youtube links to rss links.
+  instauto: bot for scheduling multiple instagram photo posts for multiple accounts. see it here on action!</description>
     </item>
     
   </channel>

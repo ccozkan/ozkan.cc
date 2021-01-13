@@ -76,7 +76,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Email"
     icon = "fa fa-envelope"
     weight = 3
-    url = "mailto:mail@ozkan.cc"
+    url = "mailto:ccozkan@tutanota.com"
 
 [[menu.main]]
     name = "| /projects |"

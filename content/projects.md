@@ -9,15 +9,16 @@ Here are the some stuff I'm currently working on:
 
 ---------------
 Here are the some stuff I've made.
+- **youtube_to_rss**: ruby gem for converting youtube links to rss links. 
 
-- **instauto**: bot for scheduling multiple instagram photo posts for multiple accounts. See it [here](https://vimeo.com/300161419) on action!
+- **instauto**: bot for scheduling multiple instagram photo posts for multiple accounts. see it [here](https://vimeo.com/300161419) on action!
 
-- **rss2insta**: Application for automatic posting on an Instagram account from an RSS feed.
+- **rss2insta**: application for automatic posting on an instagram account from an RSS feed.
 
-- **pdfbirlestir.com** : web site for merging multiple pdf documents into one file. Check it [here](https://pdfbirlestir.com). Avaible only in Turkish.
+- **pdfbirlestir.com** : web site for merging multiple pdf documents into one file. check it [here](https://pdfbirlestir.com). avaible only in turkish.
 
 - **a logwork orange**: open source app for users log their works, and for admins to watch them all and come to some conclusions. Live at [heroku](https://a-logwork-orange.herokuapp.com) - [source code](https://github.com/ccozkan/a-logwork-orange)
 
 ------------
 
-- **open source**: Check my [GitHub](https://github.com/ccozkan), for my open source work.
+- **open source**: check my [GitHub](https://github.com/ccozkan), for my open source work.
