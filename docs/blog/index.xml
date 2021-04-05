@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on CC Ozkan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2020 21:21:54 +0300</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 11:51:48 +0300</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showhn Paperboy Digital</title>
+      <link>/blog/showhn-paperboy-digital/</link>
+      <pubDate>Tue, 23 Mar 2021 11:51:48 +0300</pubDate>
+      
+      <guid>/blog/showhn-paperboy-digital/</guid>
+      <description>As you might know people present their projects(might be fresh start-up or just a side project) on &amp;ldquo;HackerNews Show&amp;rdquo;. I developed a web-app, that collects projects listed on ShowHN, and sends users to in a weekly newsletter. App checks for new projects using HackerNews API. In order to users to receive newsletter delivery, they must confirm their email. In case if anyone changes mind, unsubscription link is present at the footer of newsletters.</description>
+    </item>
+    
     <item>
       <title>Cafe Podcast</title>
       <link>/blog/cafe-podcast/</link>
