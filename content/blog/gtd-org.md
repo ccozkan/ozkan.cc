@@ -1,5 +1,5 @@
 ---
-title: "GTD and Emacs Org-Mode"
+title: "gtd and emacs org-mode"
 date: 2020-02-15T16:50:20+03:00
 draft: false
 ---

@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Tue, 23 Mar 2021 11:51:48 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Showhn Paperboy Digital</title>
+      <title>showhn.paperboy.digital</title>
       <link>/blog/showhn-paperboy-digital/</link>
       <pubDate>Tue, 23 Mar 2021 11:51:48 +0300</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Cafe Podcast</title>
+      <title>cafe podcast</title>
       <link>/blog/cafe-podcast/</link>
       <pubDate>Wed, 01 Jul 2020 21:21:54 +0300</pubDate>
       
@@ -28,7 +28,7 @@ Here are the promises I&amp;rsquo;ve made on its github page.</description>
     </item>
     
     <item>
-      <title>GTD and Emacs Org-Mode</title>
+      <title>gtd and emacs org-mode</title>
       <link>/blog/gtd-org/</link>
       <pubDate>Sat, 15 Feb 2020 16:50:20 +0300</pubDate>
       
@@ -93,9 +93,10 @@ There are two reasons behind that escape plan
       
       <guid>/projects/</guid>
       <description>Here are the some stuff I&amp;rsquo;m currently working on:
- cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source code   Here are the some stuff I&amp;rsquo;ve made.
-  youtube_to_rss: ruby gem for converting youtube links to rss links.
-  instauto: bot for scheduling multiple instagram photo posts for multiple accounts. see it here on action!</description>
+  showhn.paperboy.digital: auto-generated newsletter for show hackernews projects, live at showhn.paperboy.digital with few dozen subscribers. blogpost - source_code
+  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source_code
+   Here are the some stuff I&amp;rsquo;ve made.
+  youtube_to_rss: ruby gem for converting youtube links to rss links.</description>
     </item>
     
   </channel>
