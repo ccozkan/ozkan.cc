@@ -7,7 +7,9 @@ Here are the some stuff I'm currently working on:
 
 - **showhn.paperboy.digital**: auto-generated newsletter for show hackernews projects, live at [showhn.paperboy.digital](https://showhm.paperboy.digital) with few dozen subscribers. [blogpost](/blog/showhn-paperboy-digital/) - [source_code](https://github.com/ccozkan/showhn.paperboy.digital)
 
-- **cafe podcast**: full featured open source web app for consuming podcasts. hopefully soon to be online at [cafepodcast.io](http://cafepodcast.io) - [source_code](https://github.com/ccozkan/cafe_podcast) 
+- **podcasts.paperboy.digital**: wild mix of "cafe podcast" and "showhn.paperboy.digital" :^) [work-in-progress] [source_code](https://github.com/ccozkan/podcasts.paperboy.digital)
+
+- **cafe podcast**: full featured open source web app for consuming podcasts. hopefully soon to be online at [cafepodcast.io](http://cafepodcast.io) - [source_code](https://github.com/ccozkan/cafe_podcast) (kind of stalled, since I am more focused on "podcasts.paperboy.digital")
 
 ---------------
 Here are the some stuff I've made.

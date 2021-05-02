@@ -87,6 +87,20 @@ There are two reasons behind that escape plan
     </item>
     
     <item>
+      <title>| Far Side Projects |</title>
+      <link>/far_side_projects/</link>
+      <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
+      
+      <guid>/far_side_projects/</guid>
+      <description>Other stuff than programming and all
+  3asagi5yukari.com:
+Here are the some stuff I&amp;rsquo;m currently working on:
+  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source code
+   Here are the some stuff I&amp;rsquo;ve made.
+ youtube_to_rss: ruby gem for converting youtube links to rss links.  </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,9 +108,8 @@ There are two reasons behind that escape plan
       <guid>/projects/</guid>
       <description>Here are the some stuff I&amp;rsquo;m currently working on:
   showhn.paperboy.digital: auto-generated newsletter for show hackernews projects, live at showhn.paperboy.digital with few dozen subscribers. blogpost - source_code
-  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source_code
-   Here are the some stuff I&amp;rsquo;ve made.
-  youtube_to_rss: ruby gem for converting youtube links to rss links.</description>
+  podcasts.paperboy.digital: wild mix of &amp;ldquo;cafe podcast&amp;rdquo; and &amp;ldquo;showhn.paperboy.digital&amp;rdquo; :^) [work-in-progress] source_code
+  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source_code (kind of stalled, since I am more focused on &amp;ldquo;podcasts.</description>
     </item>
     
   </channel>
