@@ -2,7 +2,7 @@
 ---
 title: "| Far Side Projects |"
 date: 2018-10-10T04:13:32+03:00
-draft: false
+draft: true
 ---
 
 Other stuff than programming and all
