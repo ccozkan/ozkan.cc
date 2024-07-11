@@ -2,45 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2021-03-23T11:51:48+03:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2021-03-23T11:51:48+03:00</lastmod>
   </url><url>
-    <loc>/blog/showhn-paperboy-digital/</loc>
+    <loc>//localhost:1313/blog/showhn-paperboy-digital/</loc>
     <lastmod>2021-03-23T11:51:48+03:00</lastmod>
   </url><url>
-    <loc>/blog/cafe-podcast/</loc>
+    <loc>//localhost:1313/blog/cafe-podcast/</loc>
     <lastmod>2020-07-01T21:21:54+03:00</lastmod>
   </url><url>
-    <loc>/blog/gtd-org/</loc>
+    <loc>//localhost:1313/blog/gtd-org/</loc>
     <lastmod>2020-02-15T16:50:20+03:00</lastmod>
   </url><url>
-    <loc>/blog/note-taking-system/</loc>
+    <loc>//localhost:1313/blog/note-taking-system/</loc>
     <lastmod>2020-02-12T05:51:21+03:00</lastmod>
   </url><url>
-    <loc>/blog/radio-streams-2/</loc>
+    <loc>//localhost:1313/blog/radio-streams-2/</loc>
     <lastmod>2019-12-24T16:44:17+03:00</lastmod>
   </url><url>
-    <loc>/blog/beautiful-rss/</loc>
+    <loc>//localhost:1313/blog/beautiful-rss/</loc>
     <lastmod>2019-12-20T12:04:28+03:00</lastmod>
   </url><url>
-    <loc>/blog/radio-streams/</loc>
+    <loc>//localhost:1313/blog/radio-streams/</loc>
     <lastmod>2019-12-17T11:39:06+03:00</lastmod>
   </url><url>
-    <loc>/about_me/</loc>
+    <loc>//localhost:1313/about_me/</loc>
     <lastmod>2018-10-10T04:13:32+03:00</lastmod>
   </url><url>
-    <loc>/far_side_projects/</loc>
-    <lastmod>2018-10-10T04:13:32+03:00</lastmod>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/projects/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>/series/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,115 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CC Ozkan</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on CC Ozkan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Mar 2021 11:51:48 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 11:51:48 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>showhn.paperboy.digital</title>
-      <link>/blog/showhn-paperboy-digital/</link>
+      <link>//localhost:1313/blog/showhn-paperboy-digital/</link>
       <pubDate>Tue, 23 Mar 2021 11:51:48 +0300</pubDate>
-      
-      <guid>/blog/showhn-paperboy-digital/</guid>
+      <guid>//localhost:1313/blog/showhn-paperboy-digital/</guid>
       <description>As you might know people present their projects(might be fresh start-up or just a side project) on &amp;ldquo;HackerNews Show&amp;rdquo;. I developed a web-app, that collects projects listed on ShowHN, and sends users to in a weekly newsletter. App checks for new projects using HackerNews API. In order to users to receive newsletter delivery, they must confirm their email. In case if anyone changes mind, unsubscription link is present at the footer of newsletters.</description>
     </item>
-    
     <item>
       <title>cafe podcast</title>
-      <link>/blog/cafe-podcast/</link>
+      <link>//localhost:1313/blog/cafe-podcast/</link>
       <pubDate>Wed, 01 Jul 2020 21:21:54 +0300</pubDate>
-      
-      <guid>/blog/cafe-podcast/</guid>
-      <description>So I&amp;rsquo;ve been working on my latest side project from time to time. It is an open-source web app for listening podcasts with features. I believe it would be nice to have a full featured, free and open source podcast web app around.
-Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🎉.
-Here are the promises I&amp;rsquo;ve made on its github page.</description>
+      <guid>//localhost:1313/blog/cafe-podcast/</guid>
+      <description>So I&amp;rsquo;ve been working on my latest side project from time to time. It is an open-source web app for listening podcasts with features. I believe it would be nice to have a full featured, free and open source podcast web app around.&#xA;Also first time in one of my side-projects I am experiencing Test Driven Development, which is kind of fun🎉.&#xA;Here are the promises I&amp;rsquo;ve made on its github page.</description>
     </item>
-    
     <item>
       <title>gtd and emacs org-mode</title>
-      <link>/blog/gtd-org/</link>
+      <link>//localhost:1313/blog/gtd-org/</link>
       <pubDate>Sat, 15 Feb 2020 16:50:20 +0300</pubDate>
-      
-      <guid>/blog/gtd-org/</guid>
-      <description>I wrote about importance of note taking systems before, in that blogpost I pointed out that my way-to-go note taking system is GTD by David Allen. I use Emacs Org-Mode as my tool in that approach.
-I have a Dropbox folder which is in sync with my cell phone (check beorg in iOs, orgzly in Android). I also wrote a Telegram bot for capturing and appending them to the inbox.org file.</description>
+      <guid>//localhost:1313/blog/gtd-org/</guid>
+      <description>I wrote about importance of note taking systems before, in that blogpost I pointed out that my way-to-go note taking system is GTD by David Allen. I use Emacs Org-Mode as my tool in that approach.&#xA;I have a Dropbox folder which is in sync with my cell phone (check beorg in iOs, orgzly in Android). I also wrote a Telegram bot for capturing and appending them to the inbox.org file.</description>
     </item>
-    
     <item>
       <title>importance of note taking system</title>
-      <link>/blog/note-taking-system/</link>
+      <link>//localhost:1313/blog/note-taking-system/</link>
       <pubDate>Wed, 12 Feb 2020 05:51:21 +0300</pubDate>
-      
-      <guid>/blog/note-taking-system/</guid>
-      <description>I believe it has been about couple of years since I met ith the concept of GTD note taking system. It is a system introduced by David Allen in 2001 by its book. I am not going to introduce and explain the system but it is quite straight forward. There is his book, also quite a lot of resources like podcasts, videos, presentations of him explaining the system.
-I haven&amp;rsquo;t used the system for 2-year streak.</description>
+      <guid>//localhost:1313/blog/note-taking-system/</guid>
+      <description>I believe it has been about couple of years since I met ith the concept of GTD note taking system. It is a system introduced by David Allen in 2001 by its book. I am not going to introduce and explain the system but it is quite straight forward. There is his book, also quite a lot of resources like podcasts, videos, presentations of him explaining the system.&#xA;I haven&amp;rsquo;t used the system for 2-year streak.</description>
     </item>
-    
     <item>
       <title>more thoughts on radio</title>
-      <link>/blog/radio-streams-2/</link>
+      <link>//localhost:1313/blog/radio-streams-2/</link>
       <pubDate>Tue, 24 Dec 2019 16:44:17 +0300</pubDate>
-      
-      <guid>/blog/radio-streams-2/</guid>
+      <guid>//localhost:1313/blog/radio-streams-2/</guid>
       <description>So I wrote about changing my primary listening music source from spotify to online radio streaming before. It is now somewhere around day10-day15 of this experiment, and I&amp;rsquo;d like to share some more thoughts. In these days, I turned up a station whenever I want to have some rhytmic and melodic sounds in the air. Sometimes I opened spotify or youtube just for listening specific songs. I&amp;rsquo;ve never to let it play on its own.</description>
     </item>
-    
     <item>
       <title>beauty of rss</title>
-      <link>/blog/beautiful-rss/</link>
+      <link>//localhost:1313/blog/beautiful-rss/</link>
       <pubDate>Fri, 20 Dec 2019 12:04:28 +0300</pubDate>
-      
-      <guid>/blog/beautiful-rss/</guid>
-      <description>RSS might not be the newest technology in town. But damn it is effecient.
-In the age of noice of push notifications, this not disturbing delivery system has became how i consume the internet. From independent blogs (the non-kneelers part of social internet!),to big major publisher sites, podcasts and a lot of other platforms(reddit subreddits, youtube channels, etc) have native rss support. Some additional tools provide rss for non-supporting ones.</description>
+      <guid>//localhost:1313/blog/beautiful-rss/</guid>
+      <description>RSS might not be the newest technology in town. But damn it is effecient.&#xA;In the age of noice of push notifications, this not disturbing delivery system has became how i consume the internet. From independent blogs (the non-kneelers part of social internet!),to big major publisher sites, podcasts and a lot of other platforms(reddit subreddits, youtube channels, etc) have native rss support. Some additional tools provide rss for non-supporting ones.</description>
     </item>
-    
     <item>
       <title>my rediscovery of radio streams</title>
-      <link>/blog/radio-streams/</link>
+      <link>//localhost:1313/blog/radio-streams/</link>
       <pubDate>Tue, 17 Dec 2019 11:39:06 +0300</pubDate>
-      
-      <guid>/blog/radio-streams/</guid>
-      <description>Years ago, I downloaded all my music and then like everybody else I switched to streaming. Listening tunes from youtube and spotify has its advantages. But I decided to take a step away from it.
-There are two reasons behind that escape plan
- listening same stuff over and over again all the &amp;ldquo;explored&amp;rdquo; music is been recommended by the algorithm  Listening music on radio feels way more organic, and has a bit of of surfing taste.</description>
+      <guid>//localhost:1313/blog/radio-streams/</guid>
+      <description>Years ago, I downloaded all my music and then like everybody else I switched to streaming. Listening tunes from youtube and spotify has its advantages. But I decided to take a step away from it.&#xA;There are two reasons behind that escape plan&#xA;listening same stuff over and over again all the &amp;ldquo;explored&amp;rdquo; music is been recommended by the algorithm Listening music on radio feels way more organic, and has a bit of of surfing taste.</description>
     </item>
-    
     <item>
       <title>| About me |</title>
-      <link>/about_me/</link>
+      <link>//localhost:1313/about_me/</link>
       <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
-      
-      <guid>/about_me/</guid>
+      <guid>//localhost:1313/about_me/</guid>
       <description>I have a Masters Degree in Mechanical Engineering, and I was doing my PhD in that area. But then I realized I’ve got some solid passion in software and web development. So I quitted my job, dropped my PhD, moved to my hometown in order to radically change my professional career. Currently I work as a Ruby on Rails Developer. Aside from my working hours, I try to keep few side-projects of my own going on.</description>
     </item>
-    
-    <item>
-      <title>| Far Side Projects |</title>
-      <link>/far_side_projects/</link>
-      <pubDate>Wed, 10 Oct 2018 04:13:32 +0300</pubDate>
-      
-      <guid>/far_side_projects/</guid>
-      <description>Other stuff than programming and all
-  3asagi5yukari.com:
-Here are the some stuff I&amp;rsquo;m currently working on:
-  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source code
-   Here are the some stuff I&amp;rsquo;ve made.
- youtube_to_rss: ruby gem for converting youtube links to rss links.  </description>
-    </item>
-    
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Here are the some stuff I&amp;rsquo;m currently working on:
-  showhn.paperboy.digital: auto-generated newsletter for show hackernews projects, live at showhn.paperboy.digital with few dozen subscribers. blogpost - source_code
-  podcasts.paperboy.digital: wild mix of &amp;ldquo;cafe podcast&amp;rdquo; and &amp;ldquo;showhn.paperboy.digital&amp;rdquo; :^) [work-in-progress] source_code
-  cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source_code (kind of stalled, since I am more focused on &amp;ldquo;podcasts.</description>
+      <guid>//localhost:1313/projects/</guid>
+      <description>Here are the some stuff I&amp;rsquo;m currently working on:&#xA;showhn.paperboy.digital: auto-generated newsletter for show hackernews projects, live at showhn.paperboy.digital with few dozen subscribers. blogpost - source_code&#xA;podcasts.paperboy.digital: wild mix of &amp;ldquo;cafe podcast&amp;rdquo; and &amp;ldquo;showhn.paperboy.digital&amp;rdquo; :^) [work-in-progress] source_code&#xA;cafe podcast: full featured open source web app for consuming podcasts. hopefully soon to be online at cafepodcast.io - source_code (kind of stalled, since I am more focused on &amp;ldquo;podcasts.paperboy.digital&amp;rdquo;)&#xA;Here are the some stuff I&amp;rsquo;ve made.</description>
     </item>
-    
   </channel>
 </rss>
